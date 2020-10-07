@@ -10,7 +10,7 @@
   
 <p style="text-align:justify">O Twitter é uma rede social que possui um serviço de micro blog para comunicação em tempo real, usado por milhões de pessoas e organizações, sendo esse um ótimo lugar para extrair dados relacionados a opiniões de usuários sobre os mais variados assuntos</p>
 
-<p style="text-align:justify">Este projeto por objetivo fazer um estudo do textos do Twitter sob o termo de pesquisa “EAD”, utilizando um método não supervisionado de aprendizagem de máquina, LDA - Latent Dirichlet Allocation, um modelo altamente estatístico, que relaciona palavras por meio de tópicos latentes.</p>
+<p style="text-align:justify">Este projeto tem por objetivo fazer um estudo do textos do Twitter sob o termo de pesquisa “EAD”, utilizando um método não supervisionado de aprendizagem de máquina, LDA - Latent Dirichlet Allocation, um modelo altamente estatístico, que relaciona palavras por meio de tópicos latentes.</p>
 
 O projeto foi desenvolvido no software R Studio. A tabela a seguir apresenta a estrutura de desenvolvimento.
 
@@ -146,7 +146,7 @@ beta_topics
 
 <p align="center">
 <img src="imagens/topic4.jpg"/>
-  </p>10<sup>-2</sup>
+  </p>
   
 <p style="text-align:justify">Pode -se observar que este comando transformou o modelo em um formato de um tópico por termo por linha, ou seja, para cada combinação, o modelo calcula a probabilidade desse termo ser gerado a partir desse tópico.</p>
 
