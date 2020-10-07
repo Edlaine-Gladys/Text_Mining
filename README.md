@@ -146,7 +146,7 @@ beta_topics
 
 <p align="center">
 <img src="imagens/topic4.jpg"/>
-  </p>10<sup>-2</sup>
+  </p>
   
 <p style="text-align:justify">Pode -se observar que este comando transformou o modelo em um formato de um tópico por termo por linha, ou seja, para cada combinação, o modelo calcula a probabilidade desse termo ser gerado a partir desse tópico.</p>
 
